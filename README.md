@@ -85,7 +85,7 @@ To view the visualisations, follow these steps:
 
 1. **Download the Repository**: Clone the GitHub repository to your local machine.
     ```bash
-    git clone https://github.com/gappeah//Apocalypse-Food-Prep-Report.git
+    git clone https://github.com/garcane//Apocalypse-Food-Prep-Report.git
     ```
 2. **Open the PowerBI File**: Use Microsoft PowerBI Desktop to open the `Apocalypse Food Prep - Visualisations.pbix` file.
 3. **Load Data**: Ensure that all the CSV files mentioned above are in the same directory as the PowerBI file. PowerBI should automatically link to these files. If not, you can manually load them through the PowerBI interface.
